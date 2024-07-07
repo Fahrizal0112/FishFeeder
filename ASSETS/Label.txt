@@ -1,0 +1,4 @@
+0 Fighting
+1 Gold
+2 Guppy
+3 Koi
